@@ -1,0 +1,17 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "界面的宏观界面\r 结构>组件（cell）\r 组件：界面构成的基础\r 结构的套路\r .weui-cell   开启一个组件\r   .weui-cell_hd   Element\r   .weui-cell_bd\r  . weui-cell_ft\r hd+bd+ft\r _BEM  Block  Element  Modifier",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "styl": "stylus -w cell.styl -o cell.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "stylus": "^0.54.7"
+  }
+}
