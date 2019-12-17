@@ -1,0 +1,11 @@
+<!-- 上传文件没问题, 属于谁？
+userId -->
+
+<button
+  size="mini"
+  bindtap="navigateTo"
+  type="primary"
+ 
+  open-type="getUserInfo"
+  bindgetuserinfo="getUserInfo"
+>+</button>
