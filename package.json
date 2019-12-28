@@ -16,5 +16,8 @@
     "url": "https://github.com/980739252/-/issues"
   },
   "homepage": "https://github.com/980739252/-#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "stylus-loader": "^3.0.2"
+  }
 }
