@@ -18,6 +18,6 @@
   "homepage": "https://github.com/980739252/-#readme",
   "description": "",
   "dependencies": {
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^7.1.0"
   }
 }
